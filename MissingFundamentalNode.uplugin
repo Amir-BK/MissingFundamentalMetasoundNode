@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MissingFundamentalNode",
+	"Description": "Implementation of missing fundamental psychoacoustic bass extension algorithm based on Waves MaxxBass expired patent. ",
+	"Category": "Audio",
+	"CreatedBy": "Amir Ben-Kiki",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MissingFundamentalNode",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+		"Plugins": [
+		{
+			"Name": "Metasound",
+			"Enabled": true
+		},
+	]
+}
